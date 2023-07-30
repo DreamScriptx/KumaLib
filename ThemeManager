@@ -5,7 +5,7 @@ local ThemeManager = {} do
 
 	ThemeManager.Library = nil
 	ThemeManager.BuiltInThemes = {
-		['Kuma Hub'] 		= { 1, httpService:JSONDecode('{"FontColor":"ffffff","MainColor":"00fffb","AccentColor":"00fffb","BackgroundColor":"050514","OutlineColor":"464646"}') },
+		['Kuma Hub'] 		= { 1, httpService:JSONDecode('{"MainColor":"000000","AccentColor":"c600de","OutlineColor":"000000","BackgroundColor":"000000","FontColor":"ffffff"}') },
 		['Dece Hub'] 			= { 2, httpService:JSONDecode('{"FontColor":"ffffff","MainColor":"00fffb","AccentColor":"00ff8b","BackgroundColor":"050514","OutlineColor":"464646"}') },
 		['Legendary Hub'] 			= { 3, httpService:JSONDecode('{"FontColor":"ffffff","MainColor":"00fffb","AccentColor":"ff0000","BackgroundColor":"050514","OutlineColor":"464646"}') },
 		['Mint'] 			= { 4, httpService:JSONDecode('{"FontColor":"ffffff","MainColor":"242424","AccentColor":"3db488","BackgroundColor":"1c1c1c","OutlineColor":"373737"}') },
