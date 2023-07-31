@@ -21,7 +21,7 @@ do
 			ThemeManager.Folder = "Kuma Hub Premium Script - Kaitan Script";
 			ThemeManager.Library = nil;
 			ThemeManager.BuiltInThemes = {Violet={1,httpService:JSONDecode('{"MainColor":"1d1d1d","AccentColor":"fdacff","OutlineColor":"242424","BackgroundColor":"1d1d1d","FontColor":"ffffff"}')},
-			["Kuma Hub"]={2,httpService:JSONDecode('{"MainColor":"000000","AccentColor":"00d1ff","OutlineColor":"262626","BackgroundColor":"#232424","FontColor":"ffffff"}')},
+			["Kuma Hub"]={2,httpService:JSONDecode('{"MainColor":"#232424","AccentColor":"00d1ff","OutlineColor":"262626","BackgroundColor":"0000000","FontColor":"ffffff"}')},
 			["Xenon Hub V.2"]={3,httpService:JSONDecode('{"MainColor":"181825","AccentColor":"ff3c3c","OutlineColor":"323232","BackgroundColor":"16161f","FontColor":"ffffff"}')},
 			["Kiriot Hub"]={4,httpService:JSONDecode('{"FontColor":"ffffff","MainColor":"30333b","AccentColor":"ffaa00","BackgroundColor":"1a1c20","OutlineColor":"141414"}')},
 			["Quartyz Hub"]={5,httpService:JSONDecode('{"MainColor":"1c1c1c","AccentColor":"b8ffef","OutlineColor":"323232","BackgroundColor":"141414","FontColor":"ffffff"}')},
